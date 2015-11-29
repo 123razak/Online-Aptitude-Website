@@ -1,3 +1,11 @@
+Project Done By
+  Abdul Razak M
+  Aravind J
+Instructed By
+  Dr.Sriram
+
+Steps to run the project:
+----------------------------
 Step1
 Install XAMPP
 
@@ -10,7 +18,7 @@ Step3
 Now copy the project folder and paste it in htdocs folder.
 
 Step4
-Now double click on ìXAAMP CONTROL PANELî on desktop and START ìApacheî and "mySql"
+Now double click on ‚ÄúXAAMP CONTROL PANEL‚Äù on desktop and START ‚ÄúApache‚Äù and "mySql"
 
 Step5
 Type localhost on your browser and press enter to check the XAMPP installed correctly
